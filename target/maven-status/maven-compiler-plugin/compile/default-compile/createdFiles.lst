@@ -1,0 +1,4 @@
+com\moosematrix\moosemanager\SecondaryController.class
+module-info.class
+com\moosematrix\moosemanager\App.class
+com\moosematrix\moosemanager\PrimaryController.class
